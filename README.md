@@ -3,46 +3,46 @@
 The WhatsApp Notification offers an advanced notification system that automates sending customized notifications to clients for various events. This powerful tool can transform your client communication strategy.
 
 ## Key Features of the WhatsApp Notification
-Client Login Notifications
+### Client Login Notifications
 Sends alerts when a client logs into their account, enhancing security by helping clients stay aware of any unauthorized access attempts.
 
-Client Registration Notifications
+### Client Registration Notifications
 Welcomes new clients and informs them of successful registration, setting the tone for ongoing engagement.
 
-Password Change Alerts
+### Password Change Alerts
 Notifies clients of password changes to ensure they are immediately aware and can act quickly if the change was unauthorized.
 
-Two-Factor Authentication (2FA)
+### Two-Factor Authentication (2FA)
 Sends a code to clients and admins upon login for enhanced security, reducing the risk of unauthorized access.
 
-Invoice Notifications
+### Invoice Notifications
 Alerts clients for new invoices, payment receipts, and overdue reminders, helping them stay on top of their payments. Specific alerts for invoice creation, payment acknowledgment, and overdue reminders.
 
-Module Status Alerts
+### Module Status Alerts
 Provides real-time updates on service status changes, including creation, suspension, unsuspension, and termination.
 
-Domain Management Alerts
+### Domain Management Alerts
 Notifies clients of domain-related activities such as registration, transfer, and renewal, ensuring they are aware of important changes and deadlines.
 
-Support Ticket Notifications
+### Support Ticket Notifications
 Enhances customer support by sending alerts for support ticket responses, improving communication and resolution times.
 
-Customization and Personalization
+### Customization and Personalization
 Offers extensive customization options for gateway settings and message templates, allowing businesses to tailor communication to each client’s needs and preferences.
 
-Admin and Staff Notifications
+### Admin and Staff Notifications
 Keeps admins and staff informed of various events like ticket openings, order placements, and service status changes in real-time.
 
-Client Notification Preferences
+### Client Notification Preferences
 Allows clients to opt-out of specific notifications and enables admins to control which notifications clients receive, ensuring relevant and non-overwhelming communication.
 
-Multi-Language Support and Global Reach
+### Multi-Language Support and Global Reach
 Supports multiple languages to cater to a diverse client base, enhancing global reach and client satisfaction.
 
-Mass Messaging Capabilities
+### Mass Messaging Capabilities
 Enables businesses to send bulk messages for announcements, promotions, or other important updates simultaneously.
 
-Log and Tracking Features
+### Log and Tracking Features
 Includes features to view sent messages and logs, helping businesses track communication history for auditing purposes.
 
 The WhatsApp Notification is designed to improve client engagement and enhance security through automated, customizable notifications, making it an essential tool for businesses using WHMCS.
