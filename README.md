@@ -46,3 +46,8 @@ Enables businesses to send bulk messages for announcements, promotions, or other
 Includes features to view sent messages and logs, helping businesses track communication history for auditing purposes.
 
 The WhatsApp Notification is designed to improve client engagement and enhance security through automated, customizable notifications, making it an essential tool for businesses using WHMCS.
+# Plugin Gallery
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://wachat.net/public/1.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://wachat.net/public/2.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://wachat.net/public/3.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://wachat.net/public/4.png)
