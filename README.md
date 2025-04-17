@@ -1,1 +1,1 @@
-# WhatsApp-Nofification-Module-for-WHMCS
+# WhatsApp Nofification Module for WHMCS
